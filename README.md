@@ -1,4 +1,4 @@
-# testSharp
+# electron-builder mac build window unable to work normally!
 
 ## Project setup
 ```
